@@ -1,0 +1,1 @@
+C:\windows\Microsoft.NET\framework\v4.0.30319\csc *.cs /r:.\Oracle.ManagedDataAccess.dll /r:.\docx.dll
